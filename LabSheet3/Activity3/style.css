@@ -1,0 +1,28 @@
+#buttons{
+    font-size: 20px;
+    padding: 10px 20px  ;
+    background-color: rgb(57, 231, 4);
+    border-radius: 4px;
+    margin: 10px;
+}
+
+
+h1{
+    color: rgb(3, 77, 79);
+    margin-bottom: 5px;
+    padding-top: 5px;
+    text-align: center;
+}
+
+
+#top{
+    background-color: rgb(209, 177, 159);
+    height: 110px;
+    
+}
+
+
+#mapElements{
+    margin-bottom: 50px;
+    margin-left: 10px;
+}

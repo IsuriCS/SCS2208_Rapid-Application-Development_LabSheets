@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(237, 202, 235);
+}
+h1{
+    color: rgb(3, 77, 79);
+    margin-bottom: 5px;
+    padding-top: 5px;
+    text-align: center;
+}
+
+h2{
+    color: rgb(3, 77, 79);
+    text-align: center;
+    margin-bottom: 5px;
+    margin-top: 5px;
+
+}
+
+h4{
+    color: rgb(210, 42, 30);
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: 5px;
+}
+
+#topic{
+    background-color: rgb(209, 177, 159);
+    height: 110px;
+    
+}
+
+#buttons{
+    background-color: rgb(213, 167, 167);
+    width: 497px;
+    margin: 0 auto;
+    margin-top: 50px;
+    
+}
+
+#ActivityB{
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(117, 206, 244);
+    border-color: rgb(49, 87, 238);
+    border-width: 5px;
+    border-radius: 10px;
+    font-family: 'CourierNew',monospace;
+}

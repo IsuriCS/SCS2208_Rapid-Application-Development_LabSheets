@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <title>Activity 02</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id = "top">
+        <h1>Activity 2</h1>
+        <!-- <h4>Click on funtions to see results!</h4> -->
+    </div>
+
+    <div id="radioButtons"> 
+        <h3>Q1</h3>
+        <div id="fieldset">
+            <fieldset>
+                <legend >Input 1</legend>
+                <input type="radio" value="true" id="Input1t" name="Input1" >True 
+                <br>
+                <input type="radio" value="blsa" id="Input1f" name="Input1" >False 
+            </fieldset>
+        </div>
+
+       <div id="fieldset">
+            <fieldset>
+                <legend >Input 2</legend>
+                <input type="radio" value="true" id="Input2t" name="Input2" >True 
+                <br>
+                <input type="radio" value="false" id="Input2f" name="Input2" >False
+            </fieldset>
+       </div>  
+            <input type="button" id="submit" value="Submit" onclick="Q1()">
+    </div>
+    
+
+    <div id="Q2">
+        <h3>Q2</h3>
+        <label for="naturalNum">Enter a natural  number :</label>
+        <input type="number" id="naturalNum" placeholder="4">
+        <input type="button" value="Submit" onclick="Q2()">
+    </div>
+
+    <div id="Q3">
+        <h3>Q3</h3>
+        <input type="button" id="button" value="Get Currunt Time" onclick="Q3()">
+    </div>
+
+    <div>
+        <h3>Q4</h3>
+        <input type="button" id="button" value=" 'OceanGate' > 10 ?" onclick="Q4()">
+
+    </div>
+    
+    <script src="activity2.js"></script>
+</body>
+</html>

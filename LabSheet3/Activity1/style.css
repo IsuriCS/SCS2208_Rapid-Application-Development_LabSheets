@@ -1,0 +1,32 @@
+#buttons{
+    font-size: 20px;
+    padding: 10px 20px  ;
+    background-color: rgb(57, 231, 4);
+    border-radius: 4px;
+    margin: 10px;
+}
+
+
+h1{
+    color: rgb(3, 77, 79);
+    margin-bottom: 5px;
+    padding-top: 5px;
+    text-align: center;
+}
+
+h4{
+    color: rgb(210, 42, 30);
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: 5px;
+}
+
+#top{
+    background-color: rgb(209, 177, 159);
+    height: 110px;
+    
+}
+#buttonSet{
+    width:850px;
+    margin: 50px auto; 
+}
